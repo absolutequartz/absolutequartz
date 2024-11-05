@@ -30,6 +30,7 @@ Hi, I’m Shriyans! I’m a curious teen with a passion for exploring the endles
 |     3| Javascript |
 
 </details>
+I've also done 3d modelling using blender and am adept and graphic designing as well.
 <!--
 **absolutequartz/absolutequartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
