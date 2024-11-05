@@ -1,5 +1,35 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
+
+## About me
+Hi, I’m Shriyans! I’m a curious teen with a passion for exploring the endless possibilities of computer science. Whether it’s coding, problem-solving, or creating something new, I’m excited to dive deeper into this field and make an impact.
+
+
+<details>
+<summary>Hobbies and Interests</summary>
+
+| Rank | Hobbies |
+|-----:|-----------|
+|     1| Playing basketball |
+|     2| Using the computer |
+|     3| Listening to music |
+
+</details>
+
+<details open>
+<summary>Languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| HTML and CSS |
+|     2| Python |
+|     3| Javascript |
+
+</details>
 <!--
 **absolutequartz/absolutequartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
